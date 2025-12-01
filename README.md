@@ -23,7 +23,7 @@ pyproject.toml 파일에서 requires-python 필드 ">=3.11,<3.13" 으로 수정
 
 ### 패키지 설치
 ```shell
-uv add python-dotenv langchain langchain-openai langchain-neo4j langchain-google-genai numpy ipykernel pandas langfuse
+uv add python-dotenv langchain langchain-openai langchain-neo4j langchain-google-genai numpy ipykernel pandas langfuse langchain_experimental
 ```
 
 ### uv 명령어
